@@ -1,7 +1,7 @@
 {
-  "name": "rd-challenges",
+  "name": "ga-balancing",
   "version": "1.0.0",
-  "main": "customer-success-balancing.js",
+  "main": "g-a-balancing.js",
   "private": true,
   "scripts": {
     "test": "jest"
